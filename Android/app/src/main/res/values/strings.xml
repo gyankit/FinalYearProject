@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartControl</string>
+    <string name="todo">TODO</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="temperature">Temperature</string>
+    <string name="textview">TextView</string>
+    <string name="humidity">Humidity</string>
+    <string name="controls">Controls</string>
+    <string name="device_1">Device 1</string>
+    <string name="device_2">Device 2</string>
+    <string name="device_3">Device 3</string>
+    <string name="device_4">Device 4</string>
+    <string name="_0_c">0 °C</string>
+    <string name="_0_f">0 °F</string>
+    <string name="_0">0 %</string>
+    <string name="refresh">Refresh</string>
+</resources>
